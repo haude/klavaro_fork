@@ -43,6 +43,7 @@
 "Қазақ (kk) [jtsuken_kk]\n" \
 "Кыргызча (ky) [jtsuken_ru]\n" \
 "Nederlands (nl) [qwerty_us]\n" \
+"नेपाली (np) [qwerty_np_rom]\n" \
 "Polski (pl) [qwerty_pl_us]\n" \
 "Português (pt_BR) [qwerty_br_abnt2]\n" \
 "Русский (ru) [jtsuken_ru]\n" \

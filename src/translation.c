@@ -67,6 +67,7 @@ trans_code_to_country (gchar *code)
 		{"jp","日本 (Nippon)"},
 		{"kk","Қазақстан"},
 		{"no","Norge"},
+		{"np","नेपाली"},
 		{"pl","Polska"},
 		{"pk","پاکستان"},
 		{"pt","Portugal"},

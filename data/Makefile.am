@@ -68,6 +68,7 @@ klavaro_data = \
 	qwerty_it.kbd \
 	qwerty_jp.kbd \
 	qwerty_no.kbd \
+	qwerty_np_rom.kbd \
 	qwerty_pt.kbd \
 	qwerty_se.kbd \
 	qwerty_tr.kbd \
@@ -122,6 +123,8 @@ klavaro_data = \
 	nb.paragraphs \
 	nl.words \
 	nl.paragraphs \
+	np.words \
+	np.paragraphs \
 	pl.words \
 	pl.paragraphs \
 	pt_BR.words \
