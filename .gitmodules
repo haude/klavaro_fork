@@ -1,0 +1,3 @@
+[submodule "klavaro_nepali"]
+	path = klavaro_nepali
+	url = https://github.com/haude/klavaro_nepali.git
